@@ -1,5 +1,6 @@
 # Computer-Graphics-Course
 my exercises from the computer graphics course at the Hebrew University. Some of the toppics were: Animation, Transformations, Meshes, Shading, Subdivision, Bézier Curves, Texturesx Ray Tracing and more.
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/75215794/200330173-d1557f1c-a7b6-4add-bda1-a810fd40ac26.PNG)" width="100" height="100">
 ![CF EX2](https://user-images.githubusercontent.com/75215794/200330173-d1557f1c-a7b6-4add-bda1-a810fd40ac26.PNG | width=100)
 ![CG EX1](https://user-images.githubusercontent.com/75215794/200330189-f53bdacf-aacf-4793-9df4-91e08adcec0f.PNG | width=100)
 ![CG EX3](https://user-images.githubusercontent.com/75215794/200330192-a7919ff7-3090-4e2f-bae1-f787dfa438a9.PNG | width=100)
