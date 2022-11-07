@@ -1,0 +1,27 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2020.1.6f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.1.6f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(91): use of potentially uninitialized variable (trace)
+  api=4 insize=3879 outsize=31315 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(90): use of potentially uninitialized variable (trace)
+  api=4 insize=3834 outsize=31315 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(90): use of potentially uninitialized variable (trace)
+  api=4 insize=3858 outsize=32955 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(65): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3938 outsize=33387 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(65): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=33443 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(69): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=35039 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(69): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=35023 ok=1

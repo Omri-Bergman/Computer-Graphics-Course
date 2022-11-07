@@ -1,0 +1,68 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2020.1.6f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.1.6f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(92): use of potentially uninitialized variable (trace)
+  api=4 insize=3809 outsize=31239 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(91): use of potentially uninitialized variable (trace)
+  api=4 insize=3811 outsize=31239 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(91): use of potentially uninitialized variable (trace)
+  api=4 insize=3820 outsize=29759 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(91): use of potentially uninitialized variable (trace)
+  api=4 insize=3885 outsize=29959 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(91): use of potentially uninitialized variable (trace)
+  api=4 insize=3891 outsize=86719 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(90): use of potentially uninitialized variable (trace)
+  api=4 insize=3834 outsize=32007 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(90): use of potentially uninitialized variable (trace)
+  api=4 insize=3858 outsize=32311 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(90): use of potentially uninitialized variable (trace)
+  api=4 insize=3858 outsize=31323 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3765 outsize=31863 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(65): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3898 outsize=33443 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(65): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3938 outsize=33251 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(65): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3938 outsize=33519 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(65): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3938 outsize=33383 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(65): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=33471 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(69): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=35103 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(69): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=36071 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(71): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=42060 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Primitives.cginc(71): integer modulus may be much slower, try using uints if possible.
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3979 outsize=42060 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracer.compute(87): use of potentially uninitialized variable (trace)
+  api=4 insize=3744 outsize=42076 ok=1
